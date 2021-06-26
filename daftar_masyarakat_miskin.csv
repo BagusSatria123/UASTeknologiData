@@ -1,0 +1,20 @@
+﻿id;Umur;Status;Pendidikan;Tanggungan;Pekerjaan;Penghasilan;Actual Class
+1;Tua;Kawin;SLTP;1;Pedagang;Tinggi;Tidak Miskin
+2;Muda;Belum Kawin;SD;Tidak Ada;Buruh Lepas;Rendah;Miskin
+3;Tua;Kawin;Sarjana;3;Aparatur Negara;Tinggi;Tidak Miskin
+4;Tua;Kawin;SLTP;4;Petani;Rendah;Miskin
+5;Muda;Kawin;Sarjana;4;Aparatur Negara;Tinggi;Tidak Miskin
+6;Muda;Kawin;SD;3;Petani;Rendah;Miskin
+7;Muda;Kawin;Tidak Sekolah;2;Petani;Sedang;Miskin
+8;Tua;Kawin;SLTP;3;Buruh Lepas;Rendah;Miskin
+9;Tua;Cerai;SLTA;2;Tiada;Tiada;Miskin
+10;Muda;Kawin;SD;3;Petani;Rendah;Miskin
+11;Muda;Kawin;SLTP;3;Petani;Sedang;Tidak Miskin
+12;Muda;Belum Kawin;SD;Tidak Ada;Buruh Lepas;Rendah;Tidak Miskin
+13;Tua;Kawin;SD;1;Tiada;Tiada;Miskin
+14;Muda;Kawin;SD;3;Buruh Lepas;Rendah;Miskin
+15;Muda;Kawin;SD;5;Petani;Sedang;Miskin
+16;Tua;Kawin;SD;3;Petani;Rendah;Miskin
+17;Tua;Cerai;SLTA;1;Tiada;Tiada;Miskin
+18;Tua;Cerai;SD;2;Tiada;Tiada;Miskin
+19;Tua;Kawin;SD;3;Buruh Lepas;Rendah;Miskin
